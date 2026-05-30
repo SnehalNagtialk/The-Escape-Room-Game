@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Game project\\Escape Room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\knifeinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knifeinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\lockedboxinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lockedboxinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|d:\\unity\\game project\\escape room\\assets\\scripts\\clockinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clockinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\keyinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\frameinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\frameinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\movments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\drawerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drawerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\notebookinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notebookinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\cursorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursorchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\boxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\playermovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|D:\\Unity\\Game project\\Escape Room\\assets\\scripts\\inventoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C234C02-4992-2BB1-909D-35DE359534CB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CursorChange.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\CursorChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorChange.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\CursorChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CursorChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:37:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boxscript.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\Boxscript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boxscript.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\Boxscript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boxscript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:41:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frameInteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\frameInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\frameInteraction.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\frameInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\frameInteraction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:31:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clockInteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\clockInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\clockInteraction.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\clockInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\clockInteraction.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:13:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ButtonScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\ButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonScript.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\ButtonScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:10:32.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LockedBoxinteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\LockedBoxinteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LockedBoxinteraction.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\LockedBoxinteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LockedBoxinteraction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:20:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DrawerScript.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\DrawerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DrawerScript.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\DrawerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DrawerScript.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:55:33.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "knifeinteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\knifeinteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\knifeinteraction.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\knifeinteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\knifeinteraction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:18:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gamemanager.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gamemanager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T20:01:52.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "inventoy.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\inventoy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\inventoy.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\inventoy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\inventoy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:23:37.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "keyInteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\keyInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\keyInteraction.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\keyInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\keyInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:51:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "movments.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\movments.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\movments.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\movments.cs",
+              "RelativeToolTip": "Assets\\Scripts\\movments.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:54:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotebookInteraction.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\NotebookInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NotebookInteraction.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\NotebookInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NotebookInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:31:44.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMovment.cs",
+              "DocumentMoniker": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\PlayerMovment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovment.cs",
+              "ToolTip": "D:\\Unity\\Game project\\Escape Room\\Assets\\Scripts\\PlayerMovment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:17:58.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

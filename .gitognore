@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Builds]/
+/[Logs]/
+*.zip
+
+# This will ignore your specific build folder names
+/[Tt]he [尝a]st [Rr]oom/
+*Build_Data/
+*.exe
+
